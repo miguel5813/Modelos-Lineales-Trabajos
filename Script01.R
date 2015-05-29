@@ -112,4 +112,4 @@ hist(data[,"EDAD"],col = "RED")
 boxplot(data[,"EDAD"],col = "GREEN")
 
 
-
+#fin
